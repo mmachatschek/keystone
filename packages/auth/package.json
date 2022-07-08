@@ -5,7 +5,7 @@
   "main": "dist/keystone-6-auth.cjs.js",
   "module": "dist/keystone-6-auth.esm.js",
   "engines": {
-    "node": "^14.15 || ^16.13"
+    "node": "^14.15 || ^16.13 || ^18.3"
   },
   "dependencies": {
     "@babel/runtime": "^7.16.3",

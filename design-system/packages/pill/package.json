@@ -16,7 +16,7 @@
     "@keystone-ui/icons": "^6.0.0"
   },
   "engines": {
-    "node": "^14.15 || ^16.13"
+    "node": "^14.15 || ^16.13 || ^18.3"
   },
   "repository": "https://github.com/keystonejs/keystone/tree/main/design-system/packages/pill"
 }
