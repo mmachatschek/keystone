@@ -248,6 +248,7 @@
     "uuid": "^9.0.0"
   },
   "devDependencies": {
+    "@keystone-6/core": "workspace:*",
     "@types/apollo-upload-client": "17.0.3",
     "@types/bcryptjs": "^2.4.2",
     "@types/body-parser": "^1.19.2",
